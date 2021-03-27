@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/nkusi-kevin/)  OR
                      [My site](https://nkusikevinhart.netlify.app/)
 - ⚡ Fun fact: i am programming and hacking related meme addict ,if you have one please send it to me
-
+<div align="center">
+	<br>
+	<br>
+	<br>
+	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="100">
+	<br>
+	<br>
+	<br>
+</div>
