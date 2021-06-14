@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 	<br>
 	<br>
 	<br>
-	<img src="https://media.giphy.com/media/TEj3Wpao4mcSNU0yTa/giphy.gif" width="auto" height="100">
+	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="100">
 	<br>
 	<br>
 	<br>
