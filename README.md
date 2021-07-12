@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a MERN stack e-commerce web application
 - 🌱 I’m currently learning advanced nodejs
 - 👯 I’m looking to collaborate on nodejs
-- 🤔 I’m looking for help with native application development with
+- 🤔 I’m looking for help with native application development.
 - 💬 Ask me about Ask me anything related to TECH,i will be happy to respond to you.
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/nkusi-kevin/)  OR
                      [My site](https://nkusikevinhart.netlify.app/)
