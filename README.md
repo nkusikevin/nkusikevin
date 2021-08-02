@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/nkusikevin/github-readme-stats"><img alt="nkusikevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/nkusikevin/github-readme-stats"><img alt="nkusikevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/nkusikevin/github-readme-stats"><img alt="nkusikevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nkusikevin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nkusikevin/github-readme-stats"><img alt="nkusikevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkusikevin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <div align="center">
 	<br>
