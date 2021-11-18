@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a MERN stack e-commerce web application
+- 🔭 I’m currently working  webGL and Threejs application
 - 🌱 I’m currently learning advanced nodejs
 - 👯 I’m looking to collaborate on nodejs
 - 🤔 I’m looking for help with native application development.
