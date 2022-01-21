@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nodejs and reactjs applications
+- 🔭 I’m currently working on Threejs,reactjs and nodejs applications
 - 🌱 I’m currently learning advanced nodejs
 - 👯 I’m looking to collaborate on nodejs
 - 🤔 I’m looking for help with webGL and Threejs web applications.
