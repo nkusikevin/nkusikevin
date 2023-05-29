@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/6a3cf1d3-07f2-4dd0-9e73-88d1c6c977ec.svg)](https://wakatime.com/@6a3cf1d3-07f2-4dd0-9e73-88d1c6c977ec)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on web3js ,Threejs,reactjs and nodejs applications
 - 🌱 I’m currently learning advanced nodejs
