@@ -10,8 +10,7 @@
 - 😎 I’m looking to collaborate on nodejs
 - 🤔 I’m looking for help with webGL and Threejs web applications.
 - 💬 Ask me about Ask me anything related to TECH,i will be happy to respond to you.
-- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/nkusi-kevin/)  OR
-                     [My site](https://nkusikevinhart.netlify.app/)
+- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/nkusi-kevin/)  
 - ⚡ Fun fact: i am programming and hacking related meme addict ,if you have one please send it to me
 
 
