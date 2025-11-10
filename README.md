@@ -13,7 +13,7 @@
 
 Full-stack developer passionate about building innovative web applications with modern technologies. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-- 🔭 Currently working on **Web3.js, Three.js, React.js, and Node.js** applications
+- 🔭 Currently working on **Web3.js, Three.js, AI langchain & langgraph** applications
 - 🌱 Learning **Distributed systems** architecture and design patterns
 - 👯 Open to collaborate on **Node.js and Full-stack** projects
 - 🎨 Exploring **WebGL and Three.js** for immersive web experiences
@@ -81,21 +81,8 @@ Full-stack developer passionate about building innovative web applications with 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkusikevin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=79C83D" alt="nkusikevin's Top Languages" />
 </div>
 
-## 📈 Contribution Graph
 
-<div align="center">
 
-[![Nkusi Kevin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nkusikevin&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkusikevin&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 📫 Let's Connect
 
